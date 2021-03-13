@@ -1,0 +1,28 @@
+body{
+    background: #F5F6F7;
+}
+
+.container{
+    /*border: 1px solid red;*/
+}
+.number{
+    margin-left: 800px;
+    margin-bottom: 30px;
+}
+.phono{
+    color: #2E353D;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 985px;
+}
+.hero-image{
+    box-shadow: (0px 10px 25px rgba(103, 103, 103, 0.1));
+    border-radius: 10px;
+}
+.hero-navbar{
+    margin-bottom: 96px;
+}
+.button{
+    margin-left: -210px;
+}
